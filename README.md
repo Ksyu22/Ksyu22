@@ -4,7 +4,6 @@
 
 - 🌱 I’m currently discovering **the world of NLP.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
