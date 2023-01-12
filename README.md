@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Oksana</h1>
 <h3 align="center">A passionate data scientist.</h3>
 
-- 🌱 I’m currently discovering **the world of NLP.**
+- 🌱 I’m passionate about ** NLP.**
 
 <p align="left">
 </p>
