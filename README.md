@@ -5,7 +5,7 @@
 
 - 🤓 I studied Data Science : In December 2022 finished 6-month part-time DS bootcamp. As a final project with my team we created a TelegramBot sending the user the news summaries. Check out [brief-news](https://github.com/Ksyu22/brief-news.git)
 
-- 💪🏻 I’m currently strengthening **my time series EDA and modeling skills.**
+- 💪🏻 I’m currently strengthening **skills in Data Engineering and MLOps**
 
 - ⚡ Fun fact : **I'm fan of NLP.**
 
